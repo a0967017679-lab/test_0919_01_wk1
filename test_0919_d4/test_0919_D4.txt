@@ -1,0 +1,3 @@
+【Day 4 交付說明】
+1. 完成 OpenCV cv2.matchTemplate 模板比對演算法之骨架撰寫。
+2. 實現自動輪詢 data/templates/ 內所有模板圖片，對測試畫面（test_01.png）進行矩陣比對並計算信心分數（confidence）。
